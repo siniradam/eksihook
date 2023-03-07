@@ -1,0 +1,19 @@
+{
+  "name": "eksi-discord-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Koray K <koray@ohshift.io>",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.1.0",
+    "dotenv": "^16.0.3",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^3.3.0"
+  }
+}

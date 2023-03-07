@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:webhook}/src/db/tasks.db",
+      "name": "eksi-webhook-tasks"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
